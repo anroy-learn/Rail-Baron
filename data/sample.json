@@ -1,0 +1,23 @@
+{
+  "updated": "2026-10-24T14:30:00",
+  "lines": [
+    {
+      "name": "Babylon Branch",
+      "avg_delay_min": 6,
+      "trains": [
+        { "id": "2711", "lat": 40.7340, "lon": -73.4100, "delay_min": 8 },
+        { "id": "2715", "lat": 40.7590, "lon": -73.2000, "delay_min": 4 }
+      ]
+    },
+    {
+      "name": "Ronkonkoma Branch",
+      "avg_delay_min": 1,
+      "trains": [
+        { "id": "2803", "lat": 40.8100, "lon": -73.1200, "delay_min": 1 }
+      ]
+    }
+  ],
+  "alerts": [
+    "DELAY REPORTED ON THE BABYLON BRANCH. ENGINEERS ARE INVESTIGATING."
+  ]
+}
